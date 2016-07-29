@@ -1,0 +1,5 @@
+com\example\Reservation.class
+com\example\ReservationClientApplication.class
+com\example\Configuration.class
+com\example\ReservationApiGatewayRestController.class
+com\example\ReservationApiGatewayRestController$1.class
